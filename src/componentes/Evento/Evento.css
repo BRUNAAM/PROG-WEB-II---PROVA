@@ -1,0 +1,48 @@
+.evento {
+    flex-direction: row;
+    display: flex;
+}
+
+.titulo2,
+.parcerias {
+    text-align: center;
+}
+
+.quadro1 {
+    background-color: rgb(221, 231, 184);
+    height: 300px;
+    width: 40%;
+    padding: 50px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.quadro2 {
+    background-color: rgb(164, 229, 231);
+    height: 300px;
+    width: 40%;
+    padding: 50px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.p {
+    text-align: justify;
+}
+
+.parcerias {
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+p {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

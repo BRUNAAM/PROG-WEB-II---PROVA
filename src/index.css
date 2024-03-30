@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+:root {
+    --font-size: 1rem;
+    --red: #CD191E;
+    --green: #2F9E41;
+    --white: #fff;
+    --black: #000;
+    --gray: gray;
+}

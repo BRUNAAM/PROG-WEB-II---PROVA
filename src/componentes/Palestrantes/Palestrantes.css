@@ -1,0 +1,25 @@
+.palestrantes {
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+}
+
+p1 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    height: 30px;
+    width: 30%;
+
+}
+
+.cronograma {
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    text-align: center;
+
+}

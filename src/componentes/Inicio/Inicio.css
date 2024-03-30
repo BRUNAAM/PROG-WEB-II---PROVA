@@ -1,0 +1,50 @@
+.inicio {
+    flex-direction: row;
+    display: flex;
+}
+
+.q1 {
+    background-color: rgb(241, 229, 229);
+    height: 300px;
+    width: 40%;
+    padding: 50px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.q2 {
+    background-color: rgb(197, 224, 224);
+    height: 200px;
+    width: 70%;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.q3 {
+    background-color: rgb(209, 186, 203);
+    height: 300px;
+    width: 40%;
+    padding: 50px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+
+p {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
