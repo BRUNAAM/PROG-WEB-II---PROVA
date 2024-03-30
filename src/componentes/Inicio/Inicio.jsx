@@ -8,7 +8,7 @@ function Inicio() {
                 <div className="q1">
                     <div className="q2">
                         <div>
-                            <h2>Semana de Física <br />e <br />Tecnologia</h2>
+                            <h2>Semana de Física <br />e <br />Tecnologia 2</h2>
                         </div>
                         <p>
                             Inscreva-se para participar
